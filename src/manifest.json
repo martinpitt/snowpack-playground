@@ -1,0 +1,14 @@
+{
+    "version": "0.1",
+    "requires": {
+        "cockpit": "200"
+    },
+
+    "tools": {
+        "index": {
+            "label": "Hello Snowpack"
+        }
+    },
+
+    "content-security-policy": "default-src 'self' 'unsafe-inline'"
+}

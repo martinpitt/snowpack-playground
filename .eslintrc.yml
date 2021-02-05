@@ -23,3 +23,5 @@ rules:
     - always
     - omitLastInOneLineBlock: true
   comma-dangle: off
+  # need double quotes for i18n
+  quotes: off
