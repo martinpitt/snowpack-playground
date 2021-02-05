@@ -1,0 +1,17 @@
+{
+  "name": "snowpack-playground",
+  "version": "0.0.1",
+  "description": "Learn https://www.snowpack.dev",
+  "main": "index.js",
+  "scripts": {
+    "build": "snowpack build",
+    "start": "snowpack dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martin Pitt",
+  "license": "ISC",
+  "homepage": "https://github.com/martinpitt/snowpack-playground#readme",
+  "devDependencies": {
+    "snowpack": "^3.0.11"
+  }
+}
