@@ -14,6 +14,7 @@ const Application = () => {
     const [counter, setCounter] = useState(0);
     return (
         <>
+            <h1>Snowpack Playground</h1>
             <Card>
                 <CardTitle>Counter</CardTitle>
                 <CardBody>

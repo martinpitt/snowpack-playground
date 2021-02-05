@@ -1,3 +1,7 @@
+h1 {
+  font-size: 200%;
+}
+
 html, body, #root {
   height: 100%;
 }
