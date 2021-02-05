@@ -15,6 +15,9 @@
     "snowpack": "^3.0.11"
   },
   "dependencies": {
+    "@patternfly/patternfly": "^4.80.3",
+    "@patternfly/react-core": "^4.90.2",
+    "@patternfly/react-styles": "^4.7.29",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   }
